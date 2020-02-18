@@ -1,0 +1,15 @@
+{
+  "name": "twitter-crap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Makeli <t8majo03@students.oamk.fi> (https://github.com/Makeliiii)",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "twit": "^2.2.11"
+  }
+}
